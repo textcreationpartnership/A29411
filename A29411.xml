@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the reasons for which the three estates of Scotland forfaulted the Late King James and setled K. William and Q. Mary upon the throne, anno 1689 and some of the reasons induced them to abolish episcopacy there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29411</idno>
+            <idno type="STC">Wing B4519</idno>
+            <idno type="STC">ESTC R25945</idno>
+            <idno type="EEBO-CITATION">09300222</idno>
+            <idno type="OCLC">ocm 09300222</idno>
+            <idno type="VID">42650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the reasons for which the three estates of Scotland forfaulted the Late King James and setled K. William and Q. Mary upon the throne, anno 1689 and some of the reasons induced them to abolish episcopacy there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42650:1"/>
+            <p>A BRIEF ACCOUNT OF THE REASONS For which the Three Eſtates of <hi>Scotland</hi> Forfaulted the Late KING <hi>JAMES,</hi> AND SETLED K. WILLIAM and Q. MARY Upon the THRONE, <hi>Anno</hi> 1689. <hi>And ſome of the Reaſons induced them to Aboliſh</hi> EPISCOPACY <hi>there.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42650:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:42650:2"/>
+            <head>
+               <hi>A Brief ACCOUNT OF THE REASONS</hi> For which the Three Eſtates of <hi>Scotland</hi> Forfaulted the <hi>Late King James,</hi> and ſetled King <hi>WILLIAM</hi> and Queen <hi>MARY</hi> upon the Throne, <hi>Anno 1689.</hi>
+            </head>
+            <p>THE Prince of <hi>Orange</hi> (now our Gracious King) having called the Three Eſtates of <hi>Scotland</hi> together by his cir<g ref="char:EOLhyphen"/>cular Letters, firſt of all they choſe the Duke of <hi>Ha<g ref="char:EOLhyphen"/>milton</hi> (who deſerved Lawrels for his indefatigable La<g ref="char:EOLhyphen"/>bour in that great Work) their Praeſes, then declared themſelves (unanimouſly) a Free Eſtate, and ſecured their frequent Meetings. After adjuſting other Matters for the common Safety, it was mo<g ref="char:EOLhyphen"/>ved by the Earl of <hi>Leven,</hi> and ſeconded by many, That for ſeveral Reaſons the Throne ſhould be declared Vacant; and that the Va<g ref="char:EOLhyphen"/>cancy ſhould be filled up. Some were for Delays, but the Duke of <hi>Hamilton,</hi> and many others urged, That there was a neceſſi<g ref="char:EOLhyphen"/>ty to ſettle that matter as ſoon as was poſſible: And after much reaſoning at ſeveral Meetings, an Act was drawn up concerning the ſame, and Copies given by the Clerks to every Member who deſired them.</p>
+            <p>Upon the <hi>11th</hi> of <hi>April</hi> the Convention met at Nine a Clock in the Forenoon; and the Reaſons in the aforeſaid Act, declaring the Throne Vacant, with the Eſtates Concluſion, were all read Pa<g ref="char:EOLhyphen"/>ragraph
+<pb n="4" facs="tcp:42650:3"/>by Paragraph, to ſee if any, Member had further to fay againſt the ſame. There were ſeveral Arguments <hi>Pro</hi> and <hi>Con;</hi> but the moſt material were theſe betwixt <hi>Paterſon</hi> the then Archbiſhop of <hi>Glaſcow,</hi> and Sir <hi>John Dalrymple</hi> (now Maſter of <hi>Stair,</hi> and Secreta<g ref="char:EOLhyphen"/>ry of State.) The Biſhop ſaid, That in relation to the great Bu<g ref="char:EOLhyphen"/>ſineſs then in Hand, there were Three things chiefly to be conſide<g ref="char:EOLhyphen"/>red. 1. Whether the Miniſters of State, their Faults or Crimes could be imputed to the King, ſo as he ſhould loſe his Right to the Crown, which was his Inheritance by a Lineal Succeſſion (in this Na<g ref="char:EOLhyphen"/>tion) for many Ages: And his own Opinion was, That the Faults, <hi>&amp;c.</hi> of the Miniſters of State could not be imputed to the King, ſo as to Dethrone him, <hi>&amp;c.</hi> 2. He judged it more proper for Redreſs of their Grievances, to ſend Commiſſioners to the King, that he might come home to keep a Free Parliament; and then not only give ſecurity for their Religion, but alſo give the ſtanding Laws their full, free, and vigorous Execution, rather than to defend them<g ref="char:EOLhyphen"/>ſelves with Foreign Powers, thereby to Dethrone their native King, and his Lawful Succeſſors, and to advance another to the Throne, whilſt there were any of them living. 3. It was a Queſtion whe<g ref="char:EOLhyphen"/>ther this Meeting had an Authoritative and coercive Power to de<g ref="char:EOLhyphen"/>clare the Throne Vacant, and to diſpoſe thereof.</p>
+            <p>Sir <hi>John Dalrymple</hi> anſwered to the firſt, That he wondered how any Member of that Houſe could pretend to be ſo ignorant of the Reaſons mentioned in the Act for declaring the Throne Vacant, or ſo obſtinate as to deny the Truth of them: And being true Matters of Fact, it was viſible that it was not for the private Acts of Miniſters of State that King <hi>James</hi> was to be Dethroned, but his own Actions done during the whole Courſe of his Reign; by unhinging the Laws, by a Deſpotick Power, and Arbitrary Go<g ref="char:EOLhyphen"/>vernment, giving Commiſſions contrary to Law, diſpenſing with the Law in favour of Papiſts, Erecting Popiſh Chappels, Schools, and Colledges contrary to Law: And whether theſe (and ma<g ref="char:EOLhyphen"/>ny other things) were done by Inſinuations of Evil Miniſters which he put in Offices, and defended thoſe Miniſters ſo put in Offices againſt the ſtanding Laws (others knew beſt) but being
+<pb n="5" facs="tcp:42650:3"/>they were his own Acts and Deeds, muſt land at King <hi>James</hi>'s Door.</p>
+            <p>As to the ſecond, the Remedy propoſed by that worthy Pre<g ref="char:EOLhyphen"/>late (in Recalling King <hi>James</hi>) would prove worſe than the Diſeaſe: For beſides the Reaſons contained in the Act (which are ſufficient of themſelves) let us but conſider, that in the midſt of our late Fears and Confuſions, he Deſerted us, went to <hi>France</hi> privately to our Enemy, and the Enemy of Mankind; where he actually raiſed Forces, procured them Arms and Money to go for <hi>Ireland,</hi> with a Crew of <hi>French</hi> to aſſiſt the <hi>wild Iriſh</hi> Pa<g ref="char:EOLhyphen"/>piſts. And as the Proteſtants there met with hard meaſure, if he and that Party prevailed there, what might we expect but Popery and Slavery? And is there any true Proteſtant (pre<g ref="char:EOLhyphen"/>tend what he pleaſes) can dream of Security either to our Re<g ref="char:EOLhyphen"/>ligion, Laws, Liberties, or Properties, if he and his Army of cruel <hi>French</hi> and <hi>wild Iriſh</hi> came hither. So that we muſt ſe<g ref="char:EOLhyphen"/>cure our ſelves, and all that's dear to us (by keeping him and his Party out) and ſetling on the Throne Perſons, who (with God's Aſſiſtance) can and will ſecure all of them to us: Nor is it doubted but the Honourable Eſtates will fill the Vacancy with thoſe of the Royal Line.</p>
+            <p>And as to that point the Biſhop cries out of againſt, <hi>viz.</hi> the E<g ref="char:EOLhyphen"/>ſtates advancing another to the Throne whilſt King <hi>James</hi> and o<g ref="char:EOLhyphen"/>thers (whom he called his Lawful Succeſſors) were alive, anſwered, That there were none here but knew that there have been ma<g ref="char:EOLhyphen"/>ny Precedents of this nature in <hi>Scotland,</hi> where the Eſtates there<g ref="char:EOLhyphen"/>of have Dethroned their Kings and Queens for Faults and Crimes, and advanced others to the Throne whilſt they were alive, but ſtill of the ſame Line: And it is not doubted but our Kings lawful Succeſſors will ſucceed in the Throne. And as to that point of putting K. <hi>James</hi>'s ſtanding Laws in execution after his Return, anſwered, That it was hop'd the Honourable Meeting, before they ſeperated, would be ſo wiſe as to Repeal ſeveral of theſe, which the Biſhop called ſtanding Laws, which were Acts made againſt the firſt Conſtitution and Fundamental Laws, Freedom and Liber<g ref="char:EOLhyphen"/>ty of the Nation, and were both intollerable and grievous
+<pb n="6" facs="tcp:42650:4"/>thereto, to the utter Ruin of many Proteſtant Perſons and Fa<g ref="char:EOLhyphen"/>milies.</p>
+            <p>It was anſwered to the Third, That it was out of Seaſon for the Biſhop, or any other Member of this Houſe now to talk of want of Power, after they, (as well as the Biſhop him<g ref="char:EOLhyphen"/>ſelf) had unanimouſly declared themſelves a Free Eſtate; And he hoped the Honourable Houſe would take notice of that <hi>Alle<g ref="char:EOLhyphen"/>gation.</hi> As alſo, That it was very well known, that our firſt Conſtitution of Monarchy here was Elective, by the Peoples Choice; but was to continue of Inheritance to the Royal Line from Father to Son, <hi>&amp;c.</hi> upon Conditions, and therefore a limited Monarchy; So that our Kings were to maintain and defend the Subjects by Law; for which the Subjects were to pay Homage and Supplies to them, to ſupport them in the exerciſe of the Go<g ref="char:EOLhyphen"/>vernment; and if this did not hold, a Government would ſoon deſtroy it ſelf. Yea, the truth of this will clearly appear to a<g ref="char:EOLhyphen"/>ny who are (in the leaſt) verſant in our Conſtitution, Rights, Laws, or Hiſtories. And will any Man doubt but this Honou<g ref="char:EOLhyphen"/>rable Meeting hath theſe Powers uſual and requiſite conſoli<g ref="char:EOLhyphen"/>date in them by the Peoples Election? Were it not ſo, none in <hi>Scotland</hi> could have a Right or Title to any thing he has in the Kingdom. Now, in our preſent Circumſtances, we are ob<g ref="char:EOLhyphen"/>liged by the Laws of Nature, poſitive Laws of God, Nati<g ref="char:EOLhyphen"/>ons, and our Municipal Laws, to ſecure our ſelves, our Religi<g ref="char:EOLhyphen"/>on, Laws, Liberties, and Properties; and eſpecially, ſeeing God by his good Providence <hi>(even to a Miracle it ſelf)</hi> hath put this Op<g ref="char:EOLhyphen"/>portunity in our Hands. We have Power to eſtabliſh ſuch a King and Queen upon the Throne, who, we hope, will be a <hi>Nurſing Fa<g ref="char:EOLhyphen"/>ther and Mother</hi> to their Subjects, and not to return back again to <hi>Egyptian Bondage,</hi> to enſlave our ſelves to theſe unrea<g ref="char:EOLhyphen"/>ſonable <hi>Tax-Masters.</hi> But if there be any here, who for love of the <hi>Fleſh-Pots,</hi> or other things beſt pleaſes their Palates, would do otherwiſe (take their Courſe:) But we are not to make their Deſigns or Fancies our Rule or Method to follow in a matter of ſo great Concern.</p>
+            <pb n="7" facs="tcp:42650:4"/>
+            <p>After this Debate, the Earl of <hi>Crawford</hi> moved that there might be no more Debates, but that the Act ſhould be put to the Vote; by which Mens Inclinations would be fully known. The Duke of <hi>Hamilton</hi> Praeſes called for the Act to be Read, and to be put to the Vote: And being read Twice again, and put to the Vote, There were but Twenty <hi>No's,</hi> of which number the ſeven Biſhops preſent, and the young Laird of <hi>Craichlaw</hi> (who was For<g ref="char:EOLhyphen"/>faulted for being at <hi>Bothwell Bridge, Anno</hi> 1679. and pardoned by King <hi>James</hi>) were eight.</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <head>COPY of the ACT.</head>
+                  <p>
+                     <hi>THE Eſtates of the Kingdome of</hi> Scotland <hi>Find and De<g ref="char:EOLhyphen"/>clare, That King</hi> James <hi>the Seventh, being a profeſſed Papiſt, did Aſſume the Regal Power, and Acted as King, without taking the Oaths required by Law; and by the Advice of wicked and evil Counſel, invaded the Funda<g ref="char:EOLhyphen"/>mental Conſtitutions of the Kingdom, and altered them from a Legal limited Monarchy, to an Arbitrary and Deſpotick Power, and hath exerciſed the ſame, to the ſub<g ref="char:EOLhyphen"/>verſion of the Proteſtant Religion, Laws, and Liberties of the Nation, by inverting all the Ends of Government; whereby he hath Forfaulted the Right of the Crown, and the Throne is become Vacant.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The Three Eſtates Voted and Declared King <hi>William</hi> and Queen <hi>Mary,</hi> of <hi>England,</hi> &amp;c. King and Queen of <hi>Scotland, nemine contradicente,</hi> were proclaimed the ſame Afternoon with great Solemnity and Acclamations.</p>
+            <p>But all the Biſhops having refuſed to pray before the Parliament for King <hi>William</hi> and Queen <hi>Mary,</hi> after ſe<g ref="char:EOLhyphen"/>veral Admonitions, they withdrew all but one or two: And the Biſhop of <hi>Dumblain</hi> (one of the beſt of them) after all Buſineſs was over, being deſired by the Preſident to ſay Pray<g ref="char:EOLhyphen"/>ers, the aforeſaid Biſhop (that he might not give Offence) re<g ref="char:EOLhyphen"/>peated
+<pb n="8" facs="tcp:42650:5"/>the <hi>Lord</hi>'s <hi>Prayer</hi> only, and no more: Upon which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid, That People uſed to repeat the <hi>Lord</hi>'s <hi>Prayer</hi> laſt of all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter other <hi>ex tempore,</hi> or Common-Prayer: So he judged that would be the Biſhop's laſt Prayers there; and ſo it was: For the Eſtates, for many Reaſons, Voted them out of Doors, as a Grievance, and unneceſſary Trouble and Charge to the Nation. And I am very well ſatisfied, that theſe Biſhops own perſonal Cruelty to the <hi>Presbyterians</hi> in <hi>Scotland</hi> (who were forced to fly to <hi>England, Ireland,</hi> and <hi>Holland</hi> for their Safety) and their Beha<g ref="char:EOLhyphen"/>viour in the Convention, were the Motives induced the Honou<g ref="char:EOLhyphen"/>rable Eſtates to aboliſh that Eſtate ſo ſudden as they did. And had theſe Biſhops lived peaceably after their Abolition, the States had provided for them during their Lives. And thereafter the Eſtates appointed the Earl of <hi>Argile,</hi> the Maſter of <hi>Stair,</hi> and Sir <hi>James Montgomery</hi> of <hi>Skelmorlay</hi> their Commiſſioners to ten<g ref="char:EOLhyphen"/>der the Crown to King <hi>William</hi> and Queen <hi>Mary,</hi> with the In<g ref="char:EOLhyphen"/>ſtrument of Government; which Their Majeſties Signed, and took the uſual Oath accordingly. By which Proceedings it is very clear, the King and late Queen did not intrude themſelves upon the <hi>Scots</hi> Throne, but were the Choice of the People.</p>
+            <p>
+               <hi>Foelix quem faciunt aliena pericula cautem.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>THere is lately Publiſhed,</hi> An Impartial Account of the Tranſ<g ref="char:EOLhyphen"/>actions in <hi>Scotland</hi> (concerning the Earl of <hi>Broadalban,</hi> Viſcount and Maſter of <hi>Stair, Glenco-Men,</hi> Biſhop of <hi>Galloway,</hi> and <hi>Mr. Duncan Robertſon.</hi> In a Letter from a Friend.</p>
+            <p>
+               <hi>To be Sold by the Bookſellers of</hi> London <hi>and</hi> Weſtminſter.</p>
+            <pb facs="tcp:42650:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
